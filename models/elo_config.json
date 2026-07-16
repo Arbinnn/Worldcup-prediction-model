@@ -1,0 +1,4 @@
+{
+ "home_adv": 65.0,
+ "formula": "1/(1+10**((away_elo-(home_elo+home_adv))/400))"
+}

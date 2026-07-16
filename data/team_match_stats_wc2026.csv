@@ -1,0 +1,205 @@
+match_id,date,competition,stage,team,opponent,is_home,goals,goals_conceded,result,clean_sheet,xg,xg_conceded,advanced
+202600,2026-06-11,FIFA World Cup 2026,Group,Mexico,South Africa,,2,0,win,1,1.41,0.07,
+202600,2026-06-11,FIFA World Cup 2026,Group,South Africa,Mexico,,0,2,loss,0,0.07,1.41,
+202601,2026-06-11,FIFA World Cup 2026,Group,South Korea,Czech Republic,,2,1,win,0,1.84,0.81,
+202601,2026-06-11,FIFA World Cup 2026,Group,Czech Republic,South Korea,,1,2,loss,0,0.81,1.84,
+202602,2026-06-12,FIFA World Cup 2026,Group,Canada,Bosnia and Herzegovina,,1,1,draw,0,1.25,0.98,
+202602,2026-06-12,FIFA World Cup 2026,Group,Bosnia and Herzegovina,Canada,,1,1,draw,0,0.98,1.25,
+202603,2026-06-12,FIFA World Cup 2026,Group,United States,Paraguay,,4,1,win,0,1.35,0.47,
+202603,2026-06-12,FIFA World Cup 2026,Group,Paraguay,United States,,1,4,loss,0,0.47,1.35,
+202604,2026-06-13,FIFA World Cup 2026,Group,Qatar,Switzerland,,1,1,draw,0,0.76,3.24,
+202604,2026-06-13,FIFA World Cup 2026,Group,Switzerland,Qatar,,1,1,draw,0,3.24,0.76,
+202605,2026-06-13,FIFA World Cup 2026,Group,Brazil,Morocco,,1,1,draw,0,1.23,1.53,
+202605,2026-06-13,FIFA World Cup 2026,Group,Morocco,Brazil,,1,1,draw,0,1.53,1.23,
+202606,2026-06-13,FIFA World Cup 2026,Group,Haiti,Scotland,,0,1,loss,0,1.21,1.05,
+202606,2026-06-13,FIFA World Cup 2026,Group,Scotland,Haiti,,1,0,win,1,1.05,1.21,
+202607,2026-06-13,FIFA World Cup 2026,Group,Australia,Turkey,,2,0,win,1,0.77,1.33,
+202607,2026-06-13,FIFA World Cup 2026,Group,Turkey,Australia,,0,2,loss,0,1.33,0.77,
+202608,2026-06-14,FIFA World Cup 2026,Group,Germany,Curaçao,,7,1,win,0,4.22,0.41,
+202608,2026-06-14,FIFA World Cup 2026,Group,Curaçao,Germany,,1,7,loss,0,0.41,4.22,
+202609,2026-06-14,FIFA World Cup 2026,Group,Netherlands,Japan,,1,1,draw,0,0.78,0.59,
+202609,2026-06-14,FIFA World Cup 2026,Group,Japan,Netherlands,,1,1,draw,0,0.59,0.78,
+202610,2026-06-14,FIFA World Cup 2026,Group,Ivory Coast,Ecuador,,1,0,win,1,1.68,1.03,
+202610,2026-06-14,FIFA World Cup 2026,Group,Ecuador,Ivory Coast,,0,1,loss,0,1.03,1.68,
+202611,2026-06-14,FIFA World Cup 2026,Group,Sweden,Tunisia,,5,1,win,0,1.36,0.28,
+202611,2026-06-14,FIFA World Cup 2026,Group,Tunisia,Sweden,,1,5,loss,0,0.28,1.36,
+202612,2026-06-15,FIFA World Cup 2026,Group,Spain,Cape Verde,,0,0,draw,1,2.29,0.3,
+202612,2026-06-15,FIFA World Cup 2026,Group,Cape Verde,Spain,,0,0,draw,1,0.3,2.29,
+202613,2026-06-15,FIFA World Cup 2026,Group,Belgium,Egypt,,1,1,draw,0,1.35,1.08,
+202613,2026-06-15,FIFA World Cup 2026,Group,Egypt,Belgium,,1,1,draw,0,1.08,1.35,
+202614,2026-06-15,FIFA World Cup 2026,Group,Saudi Arabia,Uruguay,,1,1,draw,0,0.99,1.54,
+202614,2026-06-15,FIFA World Cup 2026,Group,Uruguay,Saudi Arabia,,1,1,draw,0,1.54,0.99,
+202615,2026-06-15,FIFA World Cup 2026,Group,Iran,New Zealand,,2,2,draw,0,1.5,1.24,
+202615,2026-06-15,FIFA World Cup 2026,Group,New Zealand,Iran,,2,2,draw,0,1.24,1.5,
+202616,2026-06-16,FIFA World Cup 2026,Group,France,Senegal,,3,1,win,0,1.79,0.56,
+202616,2026-06-16,FIFA World Cup 2026,Group,Senegal,France,,1,3,loss,0,0.56,1.79,
+202617,2026-06-16,FIFA World Cup 2026,Group,Iraq,Norway,,1,4,loss,0,0.77,2.53,
+202617,2026-06-16,FIFA World Cup 2026,Group,Norway,Iraq,,4,1,win,0,2.53,0.77,
+202618,2026-06-16,FIFA World Cup 2026,Group,Argentina,Algeria,,3,1,win,0,1.23,0.31,
+202618,2026-06-16,FIFA World Cup 2026,Group,Algeria,Argentina,,1,3,loss,0,0.31,1.23,
+202619,2026-06-16,FIFA World Cup 2026,Group,Austria,Jordan,,3,1,win,0,1.66,0.53,
+202619,2026-06-16,FIFA World Cup 2026,Group,Jordan,Austria,,1,3,loss,0,0.53,1.66,
+202620,2026-06-17,FIFA World Cup 2026,Group,Portugal,DR Congo,,1,1,draw,0,0.64,0.82,
+202620,2026-06-17,FIFA World Cup 2026,Group,DR Congo,Portugal,,1,1,draw,0,0.82,0.64,
+202621,2026-06-17,FIFA World Cup 2026,Group,England,Croatia,,4,2,win,0,2.8,0.71,
+202621,2026-06-17,FIFA World Cup 2026,Group,Croatia,England,,2,4,loss,0,0.71,2.8,
+202622,2026-06-17,FIFA World Cup 2026,Group,Ghana,Panama,,1,0,win,1,1.31,0.75,
+202622,2026-06-17,FIFA World Cup 2026,Group,Panama,Ghana,,0,1,loss,0,0.75,1.31,
+202623,2026-06-17,FIFA World Cup 2026,Group,Uzbekistan,Colombia,,1,3,loss,0,1.16,1.62,
+202623,2026-06-17,FIFA World Cup 2026,Group,Colombia,Uzbekistan,,3,1,win,0,1.62,1.16,
+202624,2026-06-18,FIFA World Cup 2026,Group,Czech Republic,South Africa,,1,1,draw,0,1.02,1.39,
+202624,2026-06-18,FIFA World Cup 2026,Group,South Africa,Czech Republic,,1,1,draw,0,1.39,1.02,
+202625,2026-06-18,FIFA World Cup 2026,Group,Switzerland,Bosnia and Herzegovina,,4,1,win,0,2.06,0.23,
+202625,2026-06-18,FIFA World Cup 2026,Group,Bosnia and Herzegovina,Switzerland,,1,4,loss,0,0.23,2.06,
+202626,2026-06-18,FIFA World Cup 2026,Group,Canada,Qatar,,6,0,win,1,4.75,0.18,
+202626,2026-06-18,FIFA World Cup 2026,Group,Qatar,Canada,,0,6,loss,0,0.18,4.75,
+202627,2026-06-19,FIFA World Cup 2026,Group,Mexico,South Korea,,1,0,win,1,0.48,0.69,
+202627,2026-06-19,FIFA World Cup 2026,Group,South Korea,Mexico,,0,1,loss,0,0.69,0.48,
+202628,2026-06-19,FIFA World Cup 2026,Group,United States,Australia,,2,0,win,1,1.08,0.35,
+202628,2026-06-19,FIFA World Cup 2026,Group,Australia,United States,,0,2,loss,0,0.35,1.08,
+202629,2026-06-19,FIFA World Cup 2026,Group,Scotland,Morocco,,0,1,loss,0,0.51,0.99,
+202629,2026-06-19,FIFA World Cup 2026,Group,Morocco,Scotland,,1,0,win,1,0.99,0.51,
+202630,2026-06-19,FIFA World Cup 2026,Group,Brazil,Haiti,,3,0,win,1,1.56,0.23,
+202630,2026-06-19,FIFA World Cup 2026,Group,Haiti,Brazil,,0,3,loss,0,0.23,1.56,
+202631,2026-06-19,FIFA World Cup 2026,Group,Turkey,Paraguay,,0,1,loss,0,2.17,0.32,
+202631,2026-06-19,FIFA World Cup 2026,Group,Paraguay,Turkey,,1,0,win,1,0.32,2.17,
+202632,2026-06-20,FIFA World Cup 2026,Group,Netherlands,Sweden,,5,1,win,0,2.61,1.01,
+202632,2026-06-20,FIFA World Cup 2026,Group,Sweden,Netherlands,,1,5,loss,0,1.01,2.61,
+202633,2026-06-20,FIFA World Cup 2026,Group,Germany,Ivory Coast,,2,1,win,0,1.89,1.22,
+202633,2026-06-20,FIFA World Cup 2026,Group,Ivory Coast,Germany,,1,2,loss,0,1.22,1.89,
+202634,2026-06-20,FIFA World Cup 2026,Group,Ecuador,Curaçao,,0,0,draw,1,3.05,0.48,
+202634,2026-06-20,FIFA World Cup 2026,Group,Curaçao,Ecuador,,0,0,draw,1,0.48,3.05,
+202635,2026-06-20,FIFA World Cup 2026,Group,Tunisia,Japan,,0,4,loss,0,0.05,2.13,
+202635,2026-06-20,FIFA World Cup 2026,Group,Japan,Tunisia,,4,0,win,1,2.13,0.05,
+202636,2026-06-21,FIFA World Cup 2026,Group,Spain,Saudi Arabia,,4,1,win,0,2.3,0.15,
+202636,2026-06-21,FIFA World Cup 2026,Group,Saudi Arabia,Spain,,1,4,loss,0,0.15,2.3,
+202637,2026-06-21,FIFA World Cup 2026,Group,Belgium,Iran,,0,0,draw,1,1.79,0.62,
+202637,2026-06-21,FIFA World Cup 2026,Group,Iran,Belgium,,0,0,draw,1,0.62,1.79,
+202638,2026-06-21,FIFA World Cup 2026,Group,Uruguay,Cape Verde,,2,2,draw,0,2.32,0.88,
+202638,2026-06-21,FIFA World Cup 2026,Group,Cape Verde,Uruguay,,2,2,draw,0,0.88,2.32,
+202639,2026-06-21,FIFA World Cup 2026,Group,New Zealand,Egypt,,1,3,loss,0,1.24,1.87,
+202639,2026-06-21,FIFA World Cup 2026,Group,Egypt,New Zealand,,3,1,win,0,1.87,1.24,
+202640,2026-06-22,FIFA World Cup 2026,Group,Argentina,Austria,,2,0,win,1,2.62,0.5,
+202640,2026-06-22,FIFA World Cup 2026,Group,Austria,Argentina,,0,2,loss,0,0.5,2.62,
+202641,2026-06-22,FIFA World Cup 2026,Group,France,Iraq,,3,0,win,1,2.38,0.6,
+202641,2026-06-22,FIFA World Cup 2026,Group,Iraq,France,,0,3,loss,0,0.6,2.38,
+202642,2026-06-22,FIFA World Cup 2026,Group,Norway,Senegal,,3,2,win,0,2.1,1.7,
+202642,2026-06-22,FIFA World Cup 2026,Group,Senegal,Norway,,2,3,loss,0,1.7,2.1,
+202643,2026-06-22,FIFA World Cup 2026,Group,Jordan,Algeria,,1,2,loss,0,0.63,1.89,
+202643,2026-06-22,FIFA World Cup 2026,Group,Algeria,Jordan,,2,1,win,0,1.89,0.63,
+202644,2026-06-23,FIFA World Cup 2026,Group,England,Ghana,,0,0,draw,1,1.28,0.33,
+202644,2026-06-23,FIFA World Cup 2026,Group,Ghana,England,,0,0,draw,1,0.33,1.28,
+202645,2026-06-23,FIFA World Cup 2026,Group,Panama,Croatia,,0,1,loss,0,0.54,1.63,
+202645,2026-06-23,FIFA World Cup 2026,Group,Croatia,Panama,,1,0,win,1,1.63,0.54,
+202646,2026-06-23,FIFA World Cup 2026,Group,Portugal,Uzbekistan,,5,0,win,1,2.43,0.25,
+202646,2026-06-23,FIFA World Cup 2026,Group,Uzbekistan,Portugal,,0,5,loss,0,0.25,2.43,
+202647,2026-06-23,FIFA World Cup 2026,Group,Colombia,DR Congo,,1,0,win,1,0.98,0.37,
+202647,2026-06-23,FIFA World Cup 2026,Group,DR Congo,Colombia,,0,1,loss,0,0.37,0.98,
+202648,2026-06-24,FIFA World Cup 2026,Group,Scotland,Brazil,,0,3,loss,0,1.13,4.46,
+202648,2026-06-24,FIFA World Cup 2026,Group,Brazil,Scotland,,3,0,win,1,4.46,1.13,
+202649,2026-06-24,FIFA World Cup 2026,Group,Morocco,Haiti,,4,2,win,0,3.26,0.66,
+202649,2026-06-24,FIFA World Cup 2026,Group,Haiti,Morocco,,2,4,loss,0,0.66,3.26,
+202650,2026-06-24,FIFA World Cup 2026,Group,Switzerland,Canada,,2,1,win,0,1.11,1.66,
+202650,2026-06-24,FIFA World Cup 2026,Group,Canada,Switzerland,,1,2,loss,0,1.66,1.11,
+202651,2026-06-24,FIFA World Cup 2026,Group,Bosnia and Herzegovina,Qatar,,3,1,win,0,1.57,1.02,
+202651,2026-06-24,FIFA World Cup 2026,Group,Qatar,Bosnia and Herzegovina,,1,3,loss,0,1.02,1.57,
+202652,2026-06-24,FIFA World Cup 2026,Group,Czech Republic,Mexico,,0,3,loss,0,0.47,1.79,
+202652,2026-06-24,FIFA World Cup 2026,Group,Mexico,Czech Republic,,3,0,win,1,1.79,0.47,
+202653,2026-06-24,FIFA World Cup 2026,Group,South Africa,South Korea,,1,0,win,1,1.1,1.0,
+202653,2026-06-24,FIFA World Cup 2026,Group,South Korea,South Africa,,0,1,loss,0,1.0,1.1,
+202654,2026-06-25,FIFA World Cup 2026,Group,Curaçao,Ivory Coast,,0,2,loss,0,0.5,1.31,
+202654,2026-06-25,FIFA World Cup 2026,Group,Ivory Coast,Curaçao,,2,0,win,1,1.31,0.5,
+202655,2026-06-25,FIFA World Cup 2026,Group,Ecuador,Germany,,2,1,win,0,1.27,0.65,
+202655,2026-06-25,FIFA World Cup 2026,Group,Germany,Ecuador,,1,2,loss,0,0.65,1.27,
+202656,2026-06-25,FIFA World Cup 2026,Group,Japan,Sweden,,1,1,draw,0,1.31,0.61,
+202656,2026-06-25,FIFA World Cup 2026,Group,Sweden,Japan,,1,1,draw,0,0.61,1.31,
+202657,2026-06-25,FIFA World Cup 2026,Group,Tunisia,Netherlands,,1,3,loss,0,0.62,1.85,
+202657,2026-06-25,FIFA World Cup 2026,Group,Netherlands,Tunisia,,3,1,win,0,1.85,0.62,
+202658,2026-06-25,FIFA World Cup 2026,Group,Turkey,United States,,3,2,win,0,2.71,2.06,
+202658,2026-06-25,FIFA World Cup 2026,Group,United States,Turkey,,2,3,loss,0,2.06,2.71,
+202659,2026-06-25,FIFA World Cup 2026,Group,Paraguay,Australia,,0,0,draw,1,0.24,0.55,
+202659,2026-06-25,FIFA World Cup 2026,Group,Australia,Paraguay,,0,0,draw,1,0.55,0.24,
+202660,2026-06-26,FIFA World Cup 2026,Group,Egypt,Iran,,1,1,draw,0,0.84,1.97,
+202660,2026-06-26,FIFA World Cup 2026,Group,Iran,Egypt,,1,1,draw,0,1.97,0.84,
+202661,2026-06-26,FIFA World Cup 2026,Group,New Zealand,Belgium,,1,5,loss,0,0.25,3.65,
+202661,2026-06-26,FIFA World Cup 2026,Group,Belgium,New Zealand,,5,1,win,0,3.65,0.25,
+202662,2026-06-26,FIFA World Cup 2026,Group,Cape Verde,Saudi Arabia,,0,0,draw,1,1.52,0.4,
+202662,2026-06-26,FIFA World Cup 2026,Group,Saudi Arabia,Cape Verde,,0,0,draw,1,0.4,1.52,
+202663,2026-06-26,FIFA World Cup 2026,Group,Uruguay,Spain,,0,1,loss,0,0.2,0.86,
+202663,2026-06-26,FIFA World Cup 2026,Group,Spain,Uruguay,,1,0,win,1,0.86,0.2,
+202664,2026-06-27,FIFA World Cup 2026,Group,Norway,France,,1,4,loss,0,1.7,1.5,
+202664,2026-06-27,FIFA World Cup 2026,Group,France,Norway,,4,1,win,0,1.5,1.7,
+202665,2026-06-27,FIFA World Cup 2026,Group,Senegal,Iraq,,5,0,win,1,3.01,0.14,
+202665,2026-06-27,FIFA World Cup 2026,Group,Iraq,Senegal,,0,5,loss,0,0.14,3.01,
+202666,2026-06-27,FIFA World Cup 2026,Group,Algeria,Austria,,3,3,draw,0,1.67,1.4,
+202666,2026-06-27,FIFA World Cup 2026,Group,Austria,Algeria,,3,3,draw,0,1.4,1.67,
+202667,2026-06-27,FIFA World Cup 2026,Group,Jordan,Argentina,,1,3,loss,0,0.76,2.13,
+202667,2026-06-27,FIFA World Cup 2026,Group,Argentina,Jordan,,3,1,win,0,2.13,0.76,
+202668,2026-06-27,FIFA World Cup 2026,Group,Colombia,Portugal,,0,0,draw,1,1.63,0.7,
+202668,2026-06-27,FIFA World Cup 2026,Group,Portugal,Colombia,,0,0,draw,1,0.7,1.63,
+202669,2026-06-27,FIFA World Cup 2026,Group,DR Congo,Uzbekistan,,3,1,win,0,2.35,0.2,
+202669,2026-06-27,FIFA World Cup 2026,Group,Uzbekistan,DR Congo,,1,3,loss,0,0.2,2.35,
+202670,2026-06-27,FIFA World Cup 2026,Group,Panama,England,,1,2,loss,0,0.59,1.4,
+202670,2026-06-27,FIFA World Cup 2026,Group,England,Panama,,2,1,win,0,1.4,0.59,
+202671,2026-06-27,FIFA World Cup 2026,Group,Croatia,Ghana,,2,1,win,0,0.42,0.73,
+202671,2026-06-27,FIFA World Cup 2026,Group,Ghana,Croatia,,1,2,loss,0,0.73,0.42,
+202672,2026-06-28,FIFA World Cup 2026,Round of 32,Canada,South Africa,,1,0,win,1,1.38,0.14,1.0
+202672,2026-06-28,FIFA World Cup 2026,Round of 32,South Africa,Canada,,0,1,loss,0,0.14,1.38,0.0
+202673,2026-06-29,FIFA World Cup 2026,Round of 32,Brazil,Japan,,2,1,win,0,1.72,0.23,1.0
+202673,2026-06-29,FIFA World Cup 2026,Round of 32,Japan,Brazil,,1,2,loss,0,0.23,1.72,0.0
+202674,2026-06-29,FIFA World Cup 2026,Round of 32,Germany,Paraguay,,1,1,draw,0,1.49,0.42,0.0
+202674,2026-06-29,FIFA World Cup 2026,Round of 32,Paraguay,Germany,,1,1,draw,0,0.42,1.49,1.0
+202675,2026-06-29,FIFA World Cup 2026,Round of 32,Netherlands,Morocco,,1,1,draw,0,0.24,1.38,0.0
+202675,2026-06-29,FIFA World Cup 2026,Round of 32,Morocco,Netherlands,,1,1,draw,0,1.38,0.24,1.0
+202676,2026-06-30,FIFA World Cup 2026,Round of 32,Ivory Coast,Norway,,1,2,loss,0,1.36,2.02,0.0
+202676,2026-06-30,FIFA World Cup 2026,Round of 32,Norway,Ivory Coast,,2,1,win,0,2.02,1.36,1.0
+202677,2026-06-30,FIFA World Cup 2026,Round of 32,France,Sweden,,3,0,win,1,3.17,0.66,1.0
+202677,2026-06-30,FIFA World Cup 2026,Round of 32,Sweden,France,,0,3,loss,0,0.66,3.17,0.0
+202678,2026-06-30,FIFA World Cup 2026,Round of 32,Mexico,Ecuador,,2,0,win,1,1.05,0.75,1.0
+202678,2026-06-30,FIFA World Cup 2026,Round of 32,Ecuador,Mexico,,0,2,loss,0,0.75,1.05,0.0
+202679,2026-07-01,FIFA World Cup 2026,Round of 32,England,DR Congo,,2,1,win,0,2.04,0.8,1.0
+202679,2026-07-01,FIFA World Cup 2026,Round of 32,DR Congo,England,,1,2,loss,0,0.8,2.04,0.0
+202680,2026-07-01,FIFA World Cup 2026,Round of 32,Belgium,Senegal,,3,2,win,0,1.74,3.58,1.0
+202680,2026-07-01,FIFA World Cup 2026,Round of 32,Senegal,Belgium,,2,3,loss,0,3.58,1.74,0.0
+202681,2026-07-01,FIFA World Cup 2026,Round of 32,United States,Bosnia and Herzegovina,,2,0,win,1,0.88,0.25,1.0
+202681,2026-07-01,FIFA World Cup 2026,Round of 32,Bosnia and Herzegovina,United States,,0,2,loss,0,0.25,0.88,0.0
+202682,2026-07-02,FIFA World Cup 2026,Round of 32,Spain,Austria,,3,0,win,1,2.8,0.29,1.0
+202682,2026-07-02,FIFA World Cup 2026,Round of 32,Austria,Spain,,0,3,loss,0,0.29,2.8,0.0
+202683,2026-07-02,FIFA World Cup 2026,Round of 32,Portugal,Croatia,,2,1,win,0,2.18,1.34,1.0
+202683,2026-07-02,FIFA World Cup 2026,Round of 32,Croatia,Portugal,,1,2,loss,0,1.34,2.18,0.0
+202684,2026-07-02,FIFA World Cup 2026,Round of 32,Switzerland,Algeria,,2,0,win,1,2.45,0.74,1.0
+202684,2026-07-02,FIFA World Cup 2026,Round of 32,Algeria,Switzerland,,0,2,loss,0,0.74,2.45,0.0
+202685,2026-07-03,FIFA World Cup 2026,Round of 32,Australia,Egypt,,1,1,draw,0,0.84,1.32,0.0
+202685,2026-07-03,FIFA World Cup 2026,Round of 32,Egypt,Australia,,1,1,draw,0,1.32,0.84,1.0
+202686,2026-07-03,FIFA World Cup 2026,Round of 32,Argentina,Cape Verde,,3,2,win,0,2.16,0.45,1.0
+202686,2026-07-03,FIFA World Cup 2026,Round of 32,Cape Verde,Argentina,,2,3,loss,0,0.45,2.16,0.0
+202687,2026-07-03,FIFA World Cup 2026,Round of 32,Colombia,Ghana,,1,0,win,1,2.04,0.27,1.0
+202687,2026-07-03,FIFA World Cup 2026,Round of 32,Ghana,Colombia,,0,1,loss,0,0.27,2.04,0.0
+202688,2026-07-04,FIFA World Cup 2026,Round of 16,Morocco,Canada,,3,0,win,1,0.82,0.84,1.0
+202688,2026-07-04,FIFA World Cup 2026,Round of 16,Canada,Morocco,,0,3,loss,0,0.84,0.82,0.0
+202689,2026-07-04,FIFA World Cup 2026,Round of 16,France,Paraguay,,1,0,win,1,1.45,0.13,1.0
+202689,2026-07-04,FIFA World Cup 2026,Round of 16,Paraguay,France,,0,1,loss,0,0.13,1.45,0.0
+202690,2026-07-05,FIFA World Cup 2026,Round of 16,Brazil,Norway,,1,2,loss,0,2.61,1.05,0.0
+202690,2026-07-05,FIFA World Cup 2026,Round of 16,Norway,Brazil,,2,1,win,0,1.05,2.61,1.0
+202691,2026-07-05,FIFA World Cup 2026,Round of 16,Mexico,England,,2,3,loss,0,1.94,1.55,0.0
+202691,2026-07-05,FIFA World Cup 2026,Round of 16,England,Mexico,,3,2,win,0,1.55,1.94,1.0
+202692,2026-07-06,FIFA World Cup 2026,Round of 16,Spain,Portugal,,1,0,win,1,1.77,0.6,1.0
+202692,2026-07-06,FIFA World Cup 2026,Round of 16,Portugal,Spain,,0,1,loss,0,0.6,1.77,0.0
+202693,2026-07-06,FIFA World Cup 2026,Round of 16,United States,Belgium,,1,4,loss,0,0.67,2.15,0.0
+202693,2026-07-06,FIFA World Cup 2026,Round of 16,Belgium,United States,,4,1,win,0,2.15,0.67,1.0
+202694,2026-07-07,FIFA World Cup 2026,Round of 16,Argentina,Egypt,,3,2,win,0,2.8,0.98,1.0
+202694,2026-07-07,FIFA World Cup 2026,Round of 16,Egypt,Argentina,,2,3,loss,0,0.98,2.8,0.0
+202695,2026-07-07,FIFA World Cup 2026,Round of 16,Switzerland,Colombia,,0,0,draw,1,0.35,1.03,1.0
+202695,2026-07-07,FIFA World Cup 2026,Round of 16,Colombia,Switzerland,,0,0,draw,1,1.03,0.35,0.0
+202696,2026-07-09,FIFA World Cup 2026,Quarter-finals,France,Morocco,,2,1,win,0,3.69,0.14,1.0
+202696,2026-07-09,FIFA World Cup 2026,Quarter-finals,Morocco,France,,1,2,loss,0,0.14,3.69,0.0
+202697,2026-07-10,FIFA World Cup 2026,Quarter-finals,Spain,Belgium,,2,1,win,0,1.96,0.34,1.0
+202697,2026-07-10,FIFA World Cup 2026,Quarter-finals,Belgium,Spain,,1,2,loss,0,0.34,1.96,0.0
+202698,2026-07-11,FIFA World Cup 2026,Quarter-finals,England,Norway,,2,1,win,0,1.04,0.68,1.0
+202698,2026-07-11,FIFA World Cup 2026,Quarter-finals,Norway,England,,1,2,loss,0,0.68,1.04,0.0
+202699,2026-07-11,FIFA World Cup 2026,Quarter-finals,Argentina,Switzerland,,3,1,win,0,2.0,0.53,1.0
+202699,2026-07-11,FIFA World Cup 2026,Quarter-finals,Switzerland,Argentina,,1,3,loss,0,0.53,2.0,0.0
+202700,2026-07-14,FIFA World Cup 2026,Semi-finals,France,Spain,,0,2,loss,0,,,0.0
+202700,2026-07-14,FIFA World Cup 2026,Semi-finals,Spain,France,,2,0,win,1,,,1.0
+202701,2026-07-15,FIFA World Cup 2026,Semi-finals,England,Argentina,,1,2,loss,0,,,0.0
+202701,2026-07-15,FIFA World Cup 2026,Semi-finals,Argentina,England,,2,1,win,0,,,1.0

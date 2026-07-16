@@ -1,0 +1,34 @@
+{
+ "logreg": {
+  "feature_set": "compact",
+  "params": {
+   "C": 0.05
+  },
+  "cv_logloss": 0.6275610954880941,
+  "n_estimators": null
+ },
+ "random_forest": {
+  "feature_set": "compact",
+  "params": {
+   "n_estimators": 400,
+   "max_depth": 6,
+   "min_samples_leaf": 20
+  },
+  "cv_logloss": 0.6342611685042293,
+  "n_estimators": null
+ },
+ "xgboost": {
+  "feature_set": "all",
+  "params": {
+   "max_depth": 2,
+   "min_child_weight": 5,
+   "learning_rate": 0.05,
+   "subsample": 0.8,
+   "colsample_bytree": 0.8,
+   "reg_alpha": 0.5,
+   "reg_lambda": 1.0
+  },
+  "cv_logloss": 0.6320925056934357,
+  "n_estimators": 85
+ }
+}
